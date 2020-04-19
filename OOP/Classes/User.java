@@ -1,4 +1,4 @@
-package Classes;
+package OOP.Classes;
 
 public class User {
     public String name;

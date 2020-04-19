@@ -1,0 +1,12 @@
+package OOP.Interfaces;
+
+public class Main {
+    public static void main(final String[] args) {
+        TaxCalculator calculator = getCalculator();
+        System.out.println(calculator.calculateTax());
+    }
+
+    public static TaxCalculator getCalculator() {
+        return new TaxCalculator2019();
+    }
+}

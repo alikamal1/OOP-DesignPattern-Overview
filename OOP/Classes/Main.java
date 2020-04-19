@@ -1,4 +1,4 @@
-package Classes;
+package OOP.Classes;
 
 public class Main {
     public static void main(final String[] args) {

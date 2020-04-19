@@ -2,10 +2,10 @@
 OOP and Design Pattern Overview
 
 ## OOP
-* [Classes](Classes)
+1. [Classes](OOP/Classes)
 
 ## Design Pattern
 ```
-javac Classes/*.java
-java Classes.Main
+javac OOP/Classes/*.java
+java OOP.Classes.Main
 ```
