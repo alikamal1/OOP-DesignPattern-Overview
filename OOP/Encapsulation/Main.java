@@ -1,0 +1,10 @@
+package OOP.Encapsulation;
+
+public class Main {
+    public static void main(final String[] args) {
+        var account = new Account();
+        account.deposit(10);
+        account.withdraw(5);
+        System.out.println(account.getBalance());
+    }
+}
