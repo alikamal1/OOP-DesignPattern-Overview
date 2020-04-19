@@ -7,6 +7,7 @@ OOP and Design Pattern Overview
 3. [Encapsulation](OOP/Encapsulation)
 4. [Abstraction](OOP/Abstraction)
 5. [Inheritance](OOP/Inheritance)
+6. [Polymorphism](OOP/Polymorphism)
 
 ## Design Pattern
 ```
