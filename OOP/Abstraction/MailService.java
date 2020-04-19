@@ -2,13 +2,13 @@ package OOP.Abstraction;
 
 public class MailService {
     public void sendEmail() {
-        connect();
+        connect(10);
         authenticate();
         //send Email
         disconnect();
     }
     
-    private void connect() {
+    private void connect(int timeout) {
         System.out.println("Connect");
     }
     private void disconnect() {
