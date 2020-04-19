@@ -6,6 +6,7 @@ OOP and Design Pattern Overview
 2. [Interfaces](OOP/Interfaces)
 3. [Encapsulation](OOP/Encapsulation)
 4. [Abstraction](OOP/Abstraction)
+5. [Inheritance](OOP/Inheritance)
 
 ## Design Pattern
 ```
