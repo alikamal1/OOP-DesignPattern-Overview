@@ -1,7 +1,7 @@
 package OOP.Interfaces;
 
 public class Main {
-    public static void main(final String[] args) {
+    public static void main(String[] args) {
         TaxCalculator calculator = getCalculator();
         System.out.println(calculator.calculateTax());
     }
