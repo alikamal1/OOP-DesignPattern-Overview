@@ -3,7 +3,7 @@ package Design_Pattern.Memento;
 import java.util.ArrayList;
 import java.util.List;
 
-public class History {
+public class History { // Caretaker
     private List<EditorState> states = new ArrayList<>();
 
     public void push(EditorState state) {

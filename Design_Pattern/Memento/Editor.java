@@ -1,6 +1,6 @@
 package Design_Pattern.Memento;
 
-public class Editor {
+public class Editor { // Originator
     private String content;
 
     public EditorState createState() {

@@ -1,6 +1,6 @@
 package Design_Pattern.Memento;
 
-public class EditorState {
+public class EditorState { // Memento
 
     private final String content;
 
