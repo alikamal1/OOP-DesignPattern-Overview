@@ -29,6 +29,16 @@ OOP and Design Pattern Overview
 17. [Proxy](OOP/Proxy)
 
 
+## UML
+![Alt Memento](/UML/Memento.PNG?raw=true)
+![Alt State](/UML/State.PNG?raw=true)
+![Alt Iterator](/UML/Iterator.PNG?raw=true)
+![Alt Strategy](/UML/Strategy.PNG?raw=true)
+![Alt Template](/UML/Template.PNG?raw=true)
+![Alt Command](/UML/Command.PNG?raw=true)
+![Alt Observer](/UML/Observer.PNG?raw=true)
+![Alt Chain_of_Responsibility](/UML/Chain_of_Responsibility.PNG?raw=true)
+![Alt Visitor](/UML/Visitor.PNG?raw=true)
 ```
 javac OOP/Classes/*.java
 java OOP.Classes.Main
