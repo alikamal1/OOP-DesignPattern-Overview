@@ -1,11 +1,11 @@
 package Design_Pattern.Command.Composite;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
+import java.util.ArrayList;
+import java.util.List;
 
 public class CompositeCommand implements Command {
 
-    private final Deque<Command> commands = new ArrayDeque<>();
+    private List<Command> commands = new ArrayList<>();
 
     public void add(Command command) {
         commands.add(command);
