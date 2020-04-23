@@ -34,5 +34,5 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Template/*.java
-java Design_Pattern.Template.Main
+javac Design_Pattern/Observer/*.java
+java Design_Pattern.Observer.Main
