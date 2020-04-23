@@ -11,7 +11,7 @@ public class Chart implements Observer {
     // Push
     // @Override
     // public void update(int value) {
-    //     System.out.println("Chart got notified. value =" + value);
+    //     System.out.println("Chart got notified. value = " + value);
     // }
 
     // Pull
@@ -22,7 +22,7 @@ public class Chart implements Observer {
 
     @Override
     public void update() {
-        System.out.println("Chart got notified.value =" + dataSource.getValue() );
+        System.out.println("Chart got notified.value = " + dataSource.getValue() );
     }
 
    
