@@ -36,5 +36,5 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Behavioral/State/*.java
-java Design_Pattern.Behavioral.Behavioral.State.Main
+javac Design_Pattern/Behavioral/Memento/Excercise/*.java
+java Design_Pattern.Behavioral.Memento.Excercise.Main
