@@ -34,5 +34,5 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Mediator/*.java
-java Design_Pattern.Mediator.Main
+javac Design_Pattern/ChainOfResponsibility/*.java
+java Design_Pattern.ChainOfResponsibility.Main
