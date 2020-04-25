@@ -36,5 +36,8 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Behavioral/Memento/Excercise/*.java
-java Design_Pattern.Behavioral.Memento.Excercise.Main
+javac Design_Pattern/Behavioral/Strategy/Exercise/*.java
+java Design_Pattern.Behavioral.Strategy.Exercise.Main
+
+#### Reference
+https://codewithmosh.com/
