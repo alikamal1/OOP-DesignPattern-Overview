@@ -15,13 +15,13 @@ public class Main {
         document.setFontName("Second font name");
         document.setFontSize(2);
         history.push(document.createState());
-
         System.out.println(document.getContent());
         System.out.println(document.getFontName());
         System.out.println(document.getFontSize());
-
+   
         document.restore(history.pop());
-
+        document.restore(history.pop());
+        
         System.out.println(document.getContent());
         System.out.println(document.getFontName());
         System.out.println(document.getFontSize());
