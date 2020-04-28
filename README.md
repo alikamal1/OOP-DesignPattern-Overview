@@ -23,7 +23,7 @@ OOP and Design Pattern Overview
 10. [Visitor](Design_Pattern/Structural/Visitor)
 ### Structural
 1. [Composite](Design_Pattern/Structural/Composite)
-2. [Adaptor](Design_Pattern/Structural/Adaptor)
+2. [Adapter](Design_Pattern/Structural/Adapter)
 3. [Decorator](Design_Pattern/Structural/Decorator)
 4. [Facade](Design_Pattern/Structural/Facade)
 5. [FlyWeight](Design_Pattern/Structural/FlyWeight)
@@ -36,8 +36,8 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Behavioral/Strategy/Exercise/*.java
-java Design_Pattern.Behavioral.Strategy.Exercise.Main
+javac Design_Pattern/Structural/Composite/*.java
+java Design_Pattern.Structural.Composite.Main
 
 #### Reference
 https://codewithmosh.com/
