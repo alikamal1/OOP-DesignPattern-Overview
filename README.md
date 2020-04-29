@@ -36,8 +36,8 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Structural/Adapter/*.java
-java Design_Pattern.Structural.Adapter.Main
+javac Design_Pattern/Structural/Decorator/*.java
+java Design_Pattern.Structural.Decorator.Main
 
 #### Reference
 https://codewithmosh.com/
