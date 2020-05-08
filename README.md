@@ -41,8 +41,8 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Structural/Decorator/*.java
-java Design_Pattern.Structural.Decorator.Main
+javac Design_Pattern/Structural/Facade/*.java
+java Design_Pattern.Structural.Facade.Main
 
 #### Reference
 
