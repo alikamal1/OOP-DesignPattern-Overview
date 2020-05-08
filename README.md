@@ -41,8 +41,8 @@ javac OOP/Classes/*.java
 java OOP.Classes.Main
 ```
 
-javac Design_Pattern/Structural/Facade/*.java
-java Design_Pattern.Structural.Facade.Main
+javac Design_Pattern/Structural/FlyWeight/*.java
+java Design_Pattern.Structural.FlyWeight.Main
 
 #### Reference
 
