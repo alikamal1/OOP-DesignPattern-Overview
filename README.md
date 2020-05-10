@@ -36,9 +36,7 @@ OOP and Design Pattern Overview
 6. [Bridge](Design_Pattern/Structural/Bridge)
 7. [Proxy](Design_Pattern/Structural/Proxy)
 
----
-
-#### Run
+## Run
 
 ```command
 javac OOP/Classes/*.java
@@ -48,6 +46,6 @@ javac Design_Pattern/Structural/FlyWeight/*.java
 java Design_Pattern.Structural.FlyWeight.Main
 ```
 
-#### Reference
+### Reference
 
 <https://codewithmosh.com/>
