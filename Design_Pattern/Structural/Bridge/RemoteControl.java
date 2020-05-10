@@ -9,13 +9,11 @@ public class RemoteControl {
         this.device = device;
     }
 
-    public void trunOn() 
-    {
+    public void trunOn() {
         device.trunOn();
     }
 
-    public void trunOff()
-    {
+    public void trunOff() {
         device.turnOff();
     }
 
